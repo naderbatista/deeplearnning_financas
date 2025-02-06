@@ -1,32 +1,40 @@
-📊 Previsão Financeira com Deep Learning: Conheça o Projeto! 🤖
+# 📊 Previsão Financeira com Deep Learning: Conheça o Projeto! 🤖
 
-🧠 O que é Deep Learning?
-Deep Learning é uma subárea do Machine Learning que utiliza redes neurais profundas para modelar e aprender padrões complexos em grandes volumes de dados. 
+## 🧠 O que é Deep Learning?
+Deep Learning é uma subárea do Machine Learning que utiliza redes neurais profundas para modelar e aprender padrões complexos em grandes volumes de dados.  
 A principal característica do Deep Learning é sua capacidade de encontrar relações não-lineares nos dados e generalizar para cenários desconhecidos.
 
-No caso deste projeto, o uso de uma rede LSTM é essencial, pois:
+No caso deste projeto, o uso de uma rede **LSTM (Long Short-Term Memory)** é essencial, pois:
 
-📈 É ideal para dados sequenciais e séries temporais.
-🧩 Consegue capturar dependências de longo prazo nos dados financeiros.
-🛠️ Reduz a perda de informações importantes durante o treinamento.
+- 📈 **É ideal para dados sequenciais e séries temporais.**
+- 🧩 **Consegue capturar dependências de longo prazo nos dados financeiros.**
+- 🛠️ **Reduz a perda de informações importantes durante o treinamento.**
 
+---
+
+## 📂 Estrutura do Projeto
 A organização do projeto segue uma estrutura limpa e modular:
 =============================================================
-📂 config  
-   └── corretoras.py  
-📂 pages  
-   └── index.html  
-📂 models
-   └── relacao de modelos treinados
-📂 trainers  
-   └── modelo_previsao_candles.py  
-docker-compose.yml  
-Dockerfile  
-requirements.txt  
-server.py  
+📂 config
+└── corretoras.py
+📂 pages
+└── index.html
+📂 models 
+└── relacao de modelos treinados 
+📂 trainers
+└── modelo_previsao_candles.py
+docker-compose.yml
+Dockerfile
+requirements.txt
+server.py
 =============================================================
 
-# O modelo é treinado com o comando:
+---
+
+## 🔧 Como Treinar o Modelo
+Para treinar o modelo, utilize o comando abaixo:
+
+```bash
 python modelo_previsao_candles.py SYMBOL INTERVAL
 
 =============================================================
