@@ -76,7 +76,9 @@ Esses números mostram o potencial do modelo em prever movimentos futuros no mer
 
 ## Imagens:
 
-
+https://github.com/naderbatista/deeplearnning_financas/blob/main/backtest.png
+https://github.com/naderbatista/deeplearnning_financas/blob/main/imagem1.png
+https://github.com/naderbatista/deeplearnning_financas/blob/main/imagem2.png
 
 💡 Participe do Projeto!
 Este projeto é uma oportunidade para aprendermos e evoluirmos juntos no campo da previsão financeira com inteligência artificial.
