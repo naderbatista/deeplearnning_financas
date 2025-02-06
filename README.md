@@ -20,14 +20,14 @@ A organização do projeto segue uma estrutura limpa e modular:
 📂 pages  
    └── index.html  
 📂 models  
-   └── relacao de modelos treinados 
+   └── relacao de modelos treinados
 📂 trainers  
    └── modelo_previsao_candles.py  
    
-docker-compose.yml  
-Dockerfile  
-requirements.txt  
-server.py  
+docker-compose.yml
+Dockerfile
+requirements.txt
+server.py
 =============================================================
 
 ---
