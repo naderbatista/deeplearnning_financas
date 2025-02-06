@@ -25,9 +25,13 @@ A organização do projeto segue uma estrutura limpa e modular:
    └── modelo_previsao_candles.py  
    
 docker-compose.yml
+
 Dockerfile
+
 requirements.txt
+
 server.py
+
 =============================================================
 
 ---
