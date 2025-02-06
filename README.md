@@ -15,18 +15,18 @@ No caso deste projeto, o uso de uma rede **LSTM (Long Short-Term Memory)** é es
 ## 📂 Estrutura do Projeto
 A organização do projeto segue uma estrutura limpa e modular:
 =============================================================
-📂 config
-└── corretoras.py
-📂 pages
-└── index.html
-📂 models 
-└── relacao de modelos treinados 
-📂 trainers
-└── modelo_previsao_candles.py
-docker-compose.yml
-Dockerfile
-requirements.txt
-server.py
+📂 config  
+   └── corretoras.py  
+📂 pages  
+   └── index.html  
+📂 models  
+   └── relacao de modelos treinados 
+📂 trainers  
+   └── modelo_previsao_candles.py  
+docker-compose.yml  
+Dockerfile  
+requirements.txt  
+server.py  
 =============================================================
 
 ---
