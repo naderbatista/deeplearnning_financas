@@ -76,9 +76,7 @@ Esses números mostram o potencial do modelo em prever movimentos futuros no mer
 
 ## Imagens:
 
-![image](https://github.com/user-attachments/assets/4e04e6c1-b2c9-4266-be78-1cf8be209e1a)
 
-![image](https://github.com/user-attachments/assets/dfda4e4e-a5f7-43d6-b7f6-f2abbf281def)
 
 💡 Participe do Projeto!
 Este projeto é uma oportunidade para aprendermos e evoluirmos juntos no campo da previsão financeira com inteligência artificial.
