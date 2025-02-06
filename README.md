@@ -23,6 +23,7 @@ A organização do projeto segue uma estrutura limpa e modular:
    └── relacao de modelos treinados 
 📂 trainers  
    └── modelo_previsao_candles.py  
+   
 docker-compose.yml  
 Dockerfile  
 requirements.txt  
